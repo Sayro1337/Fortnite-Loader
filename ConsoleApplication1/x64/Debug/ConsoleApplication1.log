@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(45,62): error C2664: 'bool Get(const TCHAR *const )': cannot convert argument 1 from 'char *' to 'const TCHAR *const '
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(45,18): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(17,6): message : see declaration of 'Get'
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(55,58): error C2664: 'bool Get(const TCHAR *const )': cannot convert argument 1 from 'char *' to 'const TCHAR *const '
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(55,14): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(17,6): message : see declaration of 'Get'
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(86,71): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Sayro\source\repos\ConsoleApplication1\ConsoleApplication1\Main.cpp(102,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
